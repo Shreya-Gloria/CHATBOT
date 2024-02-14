@@ -6,6 +6,11 @@
   </category>
   <category>
     <pattern>Hi</pattern>
-    <template>Hello Shreya.</template>
+    <template><random>
+        <li> heyoo</li>
+        <li>hello there </li>
+        <li>namaskaram</li>
+    </random></template>
+    
   </category>
 </aiml>
